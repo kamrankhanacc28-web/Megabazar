@@ -1,0 +1,5 @@
+{
+  "name": "Megabazar",
+  "description": "An interactive, AI-powered execution dashboard for the Supreme E-Commerce Foundation Blueprint. Manage tasks, generate legal/marketing content with Gemini, and track launch readiness.",
+  "requestFramePermissions": []
+}
